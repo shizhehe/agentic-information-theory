@@ -1,0 +1,39 @@
+
+# --- Model provider SDKs ---
+ollama                    # local LLM runtime
+openai                    # OpenAI client
+anthropic                 # Anthropic client
+together                  # Together AI client
+groq                      # Groq client
+google-genai              # Gemini client
+modal                     # Modal client
+sglang                    # SGLang client
+transformers              # Transformers library
+fireworks-ai              # Fireworks client
+
+# --- Retrieval, search & scraping ---
+requests                  # generic HTTP
+serpapi                   # Google Search via SerpAPI
+google_search_results     # SerpAPI helper
+firecrawl-py              # URL scraping / crawling
+rank_bm25                 # BM25 ranking for retrieval
+ddgs                      # DuckDuckGo search engine
+beautifulsoup4            # BeautifulSoup for HTML parsing
+html2text                 # HTML to text conversion
+lxml                      # XML parsing
+html5lib                  # HTML parsing
+
+# --- Data handling & utilities ---
+tiktoken                  # token counting
+PyMuPDF                   # PDF parsing
+orjson                    # fast JSON
+spacy                     # PII extraction / NLP
+cryptography              # crypto utilities
+st-theme                  # Streamlit theming
+mcp                       # Minions control plane (custom lib)
+pyjwt                     # JWT utilities
+gitingest                 # Git repository content ingestion
+
+# --- Backend ---
+pydantic>=2.0.0
+typing-extensions
