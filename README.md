@@ -159,10 +159,10 @@ Our Deep Research framework (`src/deepresearch/`) provides multi-agent research 
 If you find our work useful, please cite:
 
 ```bibtex
-@article{he2025informationtheoretic,
+@article{he2025informationtheoreticperspectiveagentic,
   title={An Information Theoretic Perspective on Agentic System Design},
   author={He, Shizhe and Narayan, Avanika and Khare, Ishan S. and Linderman, Scott and Ré, Christopher and Biderman, Dan},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2512.21720},
   year={2025}
 }
 ```
